@@ -1,12 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np 
-
-st.title('Welcome to Streamlit')
-
 import matplotlib.pyplot as plt
 import math
-
 st.title("Data App Assignment")
 
 st.write("### Input Data and Examples")
