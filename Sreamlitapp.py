@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np 
 
 st.title('Welcome to Streamlit')
-!pip install matplotlib 
+
 import matplotlib.pyplot as plt
 import math
 
